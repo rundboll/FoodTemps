@@ -1,2 +1,2 @@
 # FoodTemps
-Repository contains an API project and a React project
+Repository contains an API project
